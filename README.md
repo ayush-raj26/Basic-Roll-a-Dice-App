@@ -5,7 +5,7 @@ A new Flutter project.
 NOTE: You have to have flutter and Android Studio installed in you PC to run this code.
 Once the whole flutter is setup you have to open a virtual device from android studio and then run the main.dart file in the lib folder to finally access the application.  
 
-This is my first flutter project which acts as a basic dice rolling app.I learned how to propely use gradient and used it to make the background look pretty. A button is provided to roll the dice on the screen which randomly generates any one face out of the 6 face images we have given in the folder and displays it to the user. As this is my first project I haven't added any special animation for the rolling of the dice.
+This is my first flutter project which acts as a basic dice rolling app.The app uses proper gradients to make the background look pretty. A button is provided to roll the dice on the screen which randomly generates any one face out of the 6 face images we have given in the folder and displays it to the user. The "roll the dice" button randomly shuffles between any one of the faces. There is no animation in the app for now as its just a basic application.
 
 Some snapshots of the app:
 
